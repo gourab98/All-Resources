@@ -26,4 +26,4 @@
 * [Data Science Cheat Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
 
 ## SWERecomendedBooks ##
-* [Software Engineering At SUST Recomended-Books](https://github.com/gourab98/SWE-Recomended-Books)
+* [Software Engineering At SUST Recomended Books](https://github.com/gourab98/SWE-Recomended-Books)
