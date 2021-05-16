@@ -16,6 +16,7 @@
 ## AllMixed ##
 * [All Mixed Resources](https://github.com/Thuva4/Resources)
 * [Build your own x](https://github.com/danistefanovic/build-your-own-x)
+* [DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)
 
 ## TechInterviewResources ##
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
