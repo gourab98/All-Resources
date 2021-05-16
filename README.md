@@ -15,6 +15,7 @@
 
 ## AllMixed ##
 * [All Mixed Resources](https://github.com/Thuva4/Resources)
+* [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 
 ## TechInterviewResources ##
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
@@ -30,6 +31,7 @@
 
 ## DataScience ##
 * [Data Science Cheat Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## NetworkPentesting ##
 * [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
