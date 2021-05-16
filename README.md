@@ -12,5 +12,5 @@
 
 ## BanglaProgrammingResources  ##
 * [Bangla Programming Resources](https://github.com/me-shaon/bangla-programming-resources)
-* [Bangla Programming Resources](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
+* [Programming Problem In Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 
