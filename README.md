@@ -17,6 +17,7 @@
 * [All Mixed Resources](https://github.com/Thuva4/Resources)
 
 ## TechInterviewResources ##
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## DataStructureandAlgorithm ##
