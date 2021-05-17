@@ -43,6 +43,7 @@
 ## DataScience ##
 * [Data Science Cheat Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 
 
 ## NetworkPentesting ##
