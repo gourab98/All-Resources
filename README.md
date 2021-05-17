@@ -36,6 +36,7 @@
 
 ## NetworkPentesting ##
 * [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+* [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 
 ## SWERecomendedBooks ##
 * [Software Engineering At SUST Recomended Books](https://github.com/gourab98/SWE-Recomended-Books)
