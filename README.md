@@ -54,6 +54,7 @@
 * [Javascript](https://github.com/jonasschmedtmann/complete-javascript-course)
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 * [Front End Handbook](https://github.com/FrontendMasters/front-end-handbook-2019)
+* [Markdown Syntax](https://guides.github.com/features/mastering-markdown)
 
 
 ## BlockChain ##
