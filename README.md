@@ -41,6 +41,7 @@
 * [Graph Theory](https://github.com/jagonmoy/Graph-Theory)
 * [How To Practice Competetive Programming](https://github.com/ShahjalalShohag/How-To-Practice)
 * [Some Programming Problem](https://github.com/ShahjalalShohag/ProblemSolving)
+* [Competitive Programming Codebook](https://github.com/Foysal87/competitive_programming_codebook)
 
 
 ## BanglaProgrammingResources  ##
