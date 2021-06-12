@@ -43,6 +43,7 @@
 * [How To Practice Competetive Programming](https://github.com/ShahjalalShohag/How-To-Practice)
 * [Some Programming Problem](https://github.com/ShahjalalShohag/ProblemSolving)
 * [Competitive Programming Codebook](https://github.com/Foysal87/competitive_programming_codebook)
+* [Free Programming Books(Ebook Foundation)](https://github.com/EbookFoundation/free-programming-books)
 
 
 ## BanglaProgrammingResources  ##
