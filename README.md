@@ -10,6 +10,7 @@
 - [BlockChain](#blockchain)
 - [Data Science](#datascience)
 - [Network Pentesting](#networkpentesting)
+- [Design Pattern](#designpattern)
 - [Software Engineering](#softwareengineering)
 
 
@@ -82,11 +83,15 @@
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 
 
-## SoftwareEngineering ##
+## Design Pattern ##
 * [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Javascript Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 * [Design Patterns JS](https://github.com/fbeline/design-patterns-JS)
 * [Design Patterns](https://github.com/ZoranPandovski/design-patterns)
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+
+## SoftwareEngineering ##
 * [OS Tutorial](https://github.com/cfenollosa/os-tutorial)
 * [Software Engineering At SUST Recomended Books](https://github.com/gourab98/SWE-Recomended-Books)
 * [Guideline For SWE SUST](https://github.com/jspw/Guideline-SwE-SUST)
