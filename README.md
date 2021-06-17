@@ -59,6 +59,7 @@
 * [Front End Handbook](https://github.com/FrontendMasters/front-end-handbook-2019)
 * [Markdown Syntax](https://guides.github.com/features/mastering-markdown)
 * [C# & .NET Books](https://github.com/Sheisback/Free-CSharp-Books)
+* [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 
 ## BlockChain ##
