@@ -83,7 +83,7 @@
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 
 
-## Design Pattern ##
+## DesignPattern ##
 * [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Javascript Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 * [Design Patterns JS](https://github.com/fbeline/design-patterns-JS)
