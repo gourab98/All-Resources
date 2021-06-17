@@ -84,6 +84,7 @@
 
 ## SoftwareEngineering ##
 * [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Javascript Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 * [Design Patterns JS](https://github.com/fbeline/design-patterns-JS)
 * [Design Patterns](https://github.com/ZoranPandovski/design-patterns)
 * [OS Tutorial](https://github.com/cfenollosa/os-tutorial)
