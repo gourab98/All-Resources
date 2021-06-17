@@ -11,6 +11,7 @@
 - [Data Science](#datascience)
 - [Network Pentesting](#networkpentesting)
 - [Design Pattern](#designpattern)
+- [Tech Books](#techbooks)
 - [Software Engineering](#softwareengineering)
 
 
@@ -24,9 +25,9 @@
 ## TechInterviewResources ##
 * [Preparation for Tech Companies](https://github.com/sabir4063/my_preparation)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-* [Coding Interview Book](https://github.com/tamim/codinginterviewbook)
+* [Coding Interview (Book)](https://github.com/tamim/codinginterviewbook)
 * [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews)
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Tech Interview (Handbook)](https://github.com/yangshun/tech-interview-handbook)
 * [Interview Guide](https://github.com/in28minutes/interview-guide)
 * [Get a Software Engineering Job//Internship - Ultimate Guide](https://github.com/workattech/get-a-software-engineering-job)
 * [International Tech Jobs](https://github.com/MBSTUPC/international-tech-jobs)
@@ -48,7 +49,7 @@
 
 
 ## BanglaProgrammingResources  ##
-* [Bangla Programming Resources](https://github.com/me-shaon/bangla-programming-resources)
+* [Bangla Programming Resources (Books)](https://github.com/me-shaon/bangla-programming-resources)
 * [Programming Problem In Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 * [BookMarks](https://github.com/jspw/BookMarks)
 
@@ -59,12 +60,12 @@
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 * [Front End Handbook](https://github.com/FrontendMasters/front-end-handbook-2019)
 * [Markdown Syntax](https://guides.github.com/features/mastering-markdown)
-* [C# & .NET Books](https://github.com/Sheisback/Free-CSharp-Books)
+* [C# & .NET (Books)](https://github.com/Sheisback/Free-CSharp-Books)
 * [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 
 ## BlockChain ##
-* [Bitcoin book](https://github.com/bitcoinbook/bitcoinbook)
+* [Bitcoin (Book)](https://github.com/bitcoinbook/bitcoinbook)
 
 
 ## DataScience ##
@@ -89,6 +90,10 @@
 * [Design Patterns JS](https://github.com/fbeline/design-patterns-JS)
 * [Design Patterns](https://github.com/ZoranPandovski/design-patterns)
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+
+## TechBooks ##
+* [Tech Books Library](https://github.com/burkesquires/tech-books-library)
 
 
 ## SoftwareEngineering ##
