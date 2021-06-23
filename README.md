@@ -5,6 +5,7 @@
 - [All Mixed](#allmixed)
 - [GitHub](#github)
 - [Tech Interview](#techinterviewresources)
+- [Language](#language)
 - [Data Structure and Algorithm](#datastructureandalgorithm)
 - [Programming in Bangla](#banglaprogrammingresources)
 - [Development](#development)
@@ -39,6 +40,10 @@
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 
+## Language ##
+* [Project Based Learning Language](https://github.com/tuvtran/project-based-learning)
+
+
 ## DataStructureandAlgorithm ##
 * [ACM Library](https://github.com/AnikSarker/ACM-Library)
 * [Algorithms](https://github.com/ZoranPandovski/al-go-rithms)
@@ -66,6 +71,7 @@
 * [Markdown Syntax](https://guides.github.com/features/mastering-markdown)
 * [C# & .NET (Books)](https://github.com/Sheisback/Free-CSharp-Books)
 * [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+* [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
 
 
 ## BlockChain ##
