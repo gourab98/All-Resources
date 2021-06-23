@@ -71,6 +71,7 @@
 * [Markdown Syntax](https://guides.github.com/features/mastering-markdown)
 * [C# & .NET (Books)](https://github.com/Sheisback/Free-CSharp-Books)
 * [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+* [33 JavaScript concepts every developer should know](https://github.com/leonardomso/33-js-concepts#33-clean-code)
 * [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
 
 
