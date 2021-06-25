@@ -88,6 +88,7 @@
 * [Machine Learning Examples](https://github.com/lazyprogrammer/machine_learning_examples)
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [Data Science](https://github.com/ossu/data-science)
+* [TensorFlow2](https://github.com/raqueeb/TensorFlow2)
 
 
 ## NetworkPentesting ##
@@ -101,6 +102,7 @@
 * [Design Patterns JS](https://github.com/fbeline/design-patterns-JS)
 * [Design Patterns](https://github.com/ZoranPandovski/design-patterns)
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Head First Design Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
 
 
 ## TechBooks ##
