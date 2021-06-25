@@ -73,6 +73,7 @@
 * [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 * [33 JavaScript concepts every developer should know](https://github.com/leonardomso/33-js-concepts#33-clean-code)
 * [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
+* [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 
 ## BlockChain ##
