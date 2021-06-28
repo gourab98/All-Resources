@@ -104,6 +104,7 @@
 * [Design Patterns](https://github.com/ZoranPandovski/design-patterns)
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Head First Design Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
+* [Design Pattern](https://github.com/mhRumi/Design-Pattern)
 * [Design Patterns](https://github.com/KhanShaheb34/DesignPatterns)
 
 
