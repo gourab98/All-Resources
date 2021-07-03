@@ -61,6 +61,7 @@
 * [Bangla Programming Resources (Books)](https://github.com/me-shaon/bangla-programming-resources)
 * [Programming Problem In Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 * [BookMarks](https://github.com/jspw/BookMarks)
+* [Programming Problem in Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)
 
 
 ## Development ##
