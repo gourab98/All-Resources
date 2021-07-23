@@ -121,7 +121,7 @@
 * [Tech Books Library](https://github.com/burkesquires/tech-books-library)
 
 
-## Research Papers ##
+## ResearchPapers ##
 * [Research Papers Searching Site (Sci-hub)](https://sci-hub.se/)
 * [Research Papers Searching Site (Core)](https://core.ac.uk/)
 
