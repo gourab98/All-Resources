@@ -14,6 +14,7 @@
 - [Network Pentesting](#networkpentesting)
 - [Design Pattern](#designpattern)
 - [Tech Books](#techbooks)
+- [Research Papers](#researchpapers)
 - [Software Engineering](#softwareengineering)
 
 
@@ -43,9 +44,12 @@
 
 ## Language ##
 * [Project Based Learning Language](https://github.com/tuvtran/project-based-learning)
+* [Learning Some Popular Languages](https://www.guru99.com/)
 
 
 ## DataStructureandAlgorithm ##
+* [Compitative Programming Algorithms](https://cp-algorithms.com/)
+* [Data Structures and Algorithms](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 * [ACM Library](https://github.com/AnikSarker/ACM-Library)
 * [Algorithms](https://github.com/ZoranPandovski/al-go-rithms)
 * [Data Structures and Algorithms Notebook](https://github.com/KhanShaheb34/Data-Structures-and-Algorithms-Notebook)
@@ -83,6 +87,8 @@
 
 
 ## DataScience ##
+* [Latest Machine Learning Papers](https://paperswithcode.com/)
+* [Machine Learning Dataset](https://archive.ics.uci.edu/ml/datasets.php)
 * [Data Science Cheat Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [Deep Learning in Bangla](https://github.com/BanglaProgramming/Deep-Learning-of-Machine-Language)
@@ -111,7 +117,13 @@
 
 
 ## TechBooks ##
+* [All Books Searching Site](https://libgen.is/)
 * [Tech Books Library](https://github.com/burkesquires/tech-books-library)
+
+
+## Research Papers ##
+* [Research Papers Searching Site (Sci-hub)](https://sci-hub.se/)
+* [Research Papers Searching Site (Core)](https://core.ac.uk/)
 
 
 ## SoftwareEngineering ##
