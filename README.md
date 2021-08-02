@@ -122,6 +122,7 @@
 
 
 ## ResearchPapers ##
+* [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 * [Research Papers Searching Site (Sci-hub)](https://sci-hub.se/)
 * [Research Papers Searching Site (Core)](https://core.ac.uk/)
 
