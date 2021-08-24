@@ -40,6 +40,7 @@
 * [Tech Companies in Bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [Coding Interview Gym](https://github.com/partho-maple/coding-interview-gym)
+* [Leetcode company frequency](https://github.com/xizhengszhang/Leetcode_company_frequency)
 
 
 ## Language ##
