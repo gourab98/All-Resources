@@ -16,6 +16,7 @@
 - [Tech Books](#techbooks)
 - [Research Papers](#researchpapers)
 - [Software Engineering](#softwareengineering)
+- [Miscellaneous](#miscellaneous)
 
 
 ## AllMixed ##
@@ -69,6 +70,7 @@
 * [Programming Problem In Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Programming%20Language%20Tutorial%20Link.md)
 * [BookMarks](https://github.com/jspw/BookMarks)
 * [Programming Problem in Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)
+* [ShahjalalShohag_code-library](https://github.com/ShahjalalShohag/code-library)
 
 
 ## Development ##
@@ -134,3 +136,8 @@
 * [OS Tutorial](https://github.com/cfenollosa/os-tutorial)
 * [Software Engineering At SUST Recomended Books](https://github.com/gourab98/SWE-Recomended-Books)
 * [Guideline For SWE SUST](https://github.com/jspw/Guideline-SwE-SUST)
+
+
+## Miscellaneous ##
+* [Learning Bioinformatics](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
+
