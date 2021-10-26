@@ -20,6 +20,7 @@
 
 
 ## AllMixed ##
+* [Computer Science Video Course](https://github.com/Developer-Y/cs-video-courses)
 * [All Mixed Resources](https://github.com/Thuva4/Resources)
 * [Best Websites For Programmer](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
