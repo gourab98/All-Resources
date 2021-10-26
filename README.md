@@ -50,6 +50,7 @@
 ## Language ##
 * [Project Based Learning Language](https://github.com/tuvtran/project-based-learning)
 * [Learning Some Popular Languages](https://www.guru99.com/)
+* [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 
 ## DataStructureandAlgorithm ##
