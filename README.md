@@ -88,6 +88,7 @@
 * [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Developer-CheatSheet-in-Bangla](https://github.com/devsonket/devsonket.github.io)
+* [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
 
 
 ## BlockChain ##
