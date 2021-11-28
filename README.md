@@ -110,6 +110,7 @@
 
 
 ## NetworkPentesting ##
+* [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 * [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 
