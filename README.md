@@ -89,7 +89,7 @@
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Developer-CheatSheet-in-Bangla](https://github.com/devsonket/devsonket.github.io)
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
-* [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) [Flutter Apprentice Material](https://github.com/raywenderlich/flta-materials/tree/editions/2.0)
+* [Flutter Apprentice ||](https://www.raywenderlich.com/books/flutter-apprentice) [Flutter Apprentice Material](https://github.com/raywenderlich/flta-materials/tree/editions/2.0)
 
 
 ## BlockChain ##
