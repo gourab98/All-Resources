@@ -1,6 +1,7 @@
 <h1 align="center"> All Resources are here!</h1>
 
-<h4 align="center"> Please take a moment and be grateful to all the passionate programmers who dedicatedly do their hard works to make your life easy. All Hail To All The Programmers All Over The World! </h4>
+<h4 align="center"> Please take a moment and be grateful to all the passionate programmers who dedicatedly do their hard works to make your life easy. 
+ All Hail To All The Programmers All Over The World! </h4>
 
 ## Contents ##
 
