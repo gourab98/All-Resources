@@ -94,6 +94,7 @@
 * [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)
 * [Flutter Apprentice ||](https://www.raywenderlich.com/books/flutter-apprentice) [Flutter Apprentice Material](https://github.com/raywenderlich/flta-materials/tree/editions/2.0)
 * [Javascript Bootcamp](https://github.com/vivasoft-ltd/javascript-bootcamp)
+* [About React](https://github.com/diegomura/react-pdf)
 
 
 ## BlockChain ##
