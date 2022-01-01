@@ -99,6 +99,8 @@
 
 ## BlockChain ##
 * [Bitcoin (Book)](https://github.com/bitcoinbook/bitcoinbook)
+* [Blockchain-Book](https://github.com/dvf/blockchain-book)
+* [Blockchain](https://github.com/dvf/blockchain)
 
 
 ## DataScience ##
