@@ -50,6 +50,7 @@
 * [Leetcode company frequency](https://github.com/xizhengszhang/Leetcode_company_frequency)
 * [Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
 * [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+* [Interview](https://github.com/Olshansk/interview)
 
 
 ## Language ##
@@ -123,6 +124,7 @@
 * [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 * [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
+* [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 
 
 ## DesignPattern ##
