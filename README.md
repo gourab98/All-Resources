@@ -160,5 +160,5 @@
 ## Miscellaneous ##
 * [Learning Bioinformatics](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 
-## OPEN SOURCE INTERNSHIP PROGRAM ##
+# OPEN SOURCE INTERNSHIP PROGRAM #
 * [List of Program](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
