@@ -72,6 +72,7 @@
 * [Some Programming Problem](https://github.com/ShahjalalShohag/ProblemSolving)
 * [Competitive Programming Codebook](https://github.com/Foysal87/competitive_programming_codebook)
 * [Free Programming Books(Ebook Foundation)](https://github.com/EbookFoundation/free-programming-books)
+* [Algorithms](https://github.com/williamfiset/Algorithms)
 
 
 ## BanglaProgrammingResources  ##
@@ -118,6 +119,7 @@
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [Data Science](https://github.com/ossu/data-science)
 * [TensorFlow2](https://github.com/raqueeb/TensorFlow2)
+* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
 
 
 ## NetworkPentesting ##
